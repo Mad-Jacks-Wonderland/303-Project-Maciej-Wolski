@@ -1,0 +1,76 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CMP105App.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Level.cpp
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\NetworkServerManager.h(14,14): warning C4305: 'initializing': truncation from 'int' to 'const short'
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\NetworkServerManager.h(14,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\Level.cpp(35,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\Level.cpp(35,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\Level.cpp(103,113): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\Level.cpp(104,113): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\Level.cpp(269,45): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\Level.cpp(270,45): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\Level.cpp(271,41): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\Level.cpp(272,41): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\Level.cpp(273,41): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\Level.cpp(274,41): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\Level.cpp(275,41): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\Level.cpp(276,41): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\Level.cpp(277,41): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\Level.cpp(278,41): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\Level.cpp(316,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\NetworkServerManager.h(14,14): warning C4305: 'initializing': truncation from 'int' to 'const short'
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\NetworkServerManager.h(14,21): warning C4309: 'initializing': truncation of constant value
+  NetworkServerManager.cpp
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\NetworkServerManager.h(14,14): warning C4305: 'initializing': truncation from 'int' to 'const short'
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\NetworkServerManager.h(14,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\CMP105App\NetworkServerManager.cpp(59,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  CMP105App.vcxproj -> C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_SERVER\x64\Debug\303_PROTOTYPE_SERVER.exe

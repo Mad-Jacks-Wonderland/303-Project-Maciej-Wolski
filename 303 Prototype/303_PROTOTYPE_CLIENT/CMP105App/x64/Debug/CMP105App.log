@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (303_PROTOTYPE_SERVER.vcxproj, CMP105App.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Level.cpp
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Level.cpp(37,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Level.cpp(37,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Level.cpp(71,5): warning C4305: 'argument': truncation from 'int' to 'unsigned short'
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Level.cpp(71,34): warning C4309: 'argument': truncation of constant value
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Level.cpp(361,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Level.cpp(361,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Level.cpp(362,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Level.cpp(362,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Level.cpp(363,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Level.cpp(363,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Level.cpp(364,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Level.cpp(364,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Level.cpp(365,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Level.cpp(365,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Level.cpp(438,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CMP105App.vcxproj -> C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\x64\Debug\303_PROTOTYPE_CLIENT.exe

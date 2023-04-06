@@ -1,0 +1,8 @@
+﻿  BaseLevel.cpp
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Framework\BaseLevel.cpp(24,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Input.cpp
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Framework\Input.cpp(157,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Level.cpp
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Level.cpp(390,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Main.cpp
+C:\Users\Siliconium\OneDrive\Pulpit\Projects\303 Prototype\303_PROTOTYPE_CLIENT\CMP105App\Main.cpp(102,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
